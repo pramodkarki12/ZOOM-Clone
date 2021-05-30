@@ -1,0 +1,22 @@
+{
+  "name": "zoom-clone",
+  "version": "1.0.0",
+  "description": "# Plan of Action",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pramodkarki12/ZOOM-Clone.git"
+  },
+  "author": "Pramod Karki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pramodkarki12/ZOOM-Clone/issues"
+  },
+  "homepage": "https://github.com/pramodkarki12/ZOOM-Clone#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
